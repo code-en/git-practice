@@ -1,4 +1,4 @@
 ﻿# git-practice
 このリポジトリはGit動画講座用です．
 ローカルリポで変更  
-new-featureブランチで変更(2024/6/26)
+no-fast-forwardブランチで変更(2024/6/26)
